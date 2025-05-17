@@ -3,4 +3,4 @@ dilanjutkan dengan pertemuan kedua, saya belajar konsep dasar API dalam python s
 kemudian di pertemuan ketiga, saya belajar mengenal framework dalam  python.
 kemudian di pertmuan keempat, saya belajar Mengenal dan bagaimana cara mebuat flask apda python.
 di pertemuan kelima, saya belajar bagaimana caranya membuat API endpoint dengan flask pada python.
-dan di pertemuan keenam (sekarang), saya belajar Pemrorgraman visual berbasis python PyQt
+dan di pertemuan keenam (sekarang), saya belajar Pemrorgraman visual berbasis python PyQt.
